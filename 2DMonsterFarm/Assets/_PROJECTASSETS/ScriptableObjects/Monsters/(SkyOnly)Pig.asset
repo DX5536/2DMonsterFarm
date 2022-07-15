@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95c9fea72de2492428ce71a4e4243c74, type: 3}
+  m_Name: (SkyOnly)Pig
+  m_EditorClassIdentifier: 
+  monsterDisplayName: Pigglet
+  monsterStages:
+  - {fileID: -5662653531356475347, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  - {fileID: 8804460229339009837, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  - {fileID: 7427372603653537888, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  - {fileID: -3057098162562481206, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  timeBetweenStages: 50
+  monsterHatchTime: 150
+  buyPrice: 800
+  sellPrice: 900
+  icon: {fileID: -5662653531356475347, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}

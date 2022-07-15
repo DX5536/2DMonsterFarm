@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95c9fea72de2492428ce71a4e4243c74, type: 3}
+  m_Name: Dragon
+  m_EditorClassIdentifier: 
+  monsterDisplayName: Cyan Egg
+  monsterStages:
+  - {fileID: -5087603417706153937, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  - {fileID: 322524637444252718, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  - {fileID: 5148744412333920032, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  - {fileID: -6194812110901065556, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  timeBetweenStages: 20
+  monsterHatchTime: 60
+  buyPrice: 40
+  sellPrice: 80
+  icon: {fileID: -5087603417706153937, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}

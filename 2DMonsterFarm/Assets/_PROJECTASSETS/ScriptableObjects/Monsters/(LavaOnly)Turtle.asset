@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95c9fea72de2492428ce71a4e4243c74, type: 3}
+  m_Name: (LavaOnly)Turtle
+  m_EditorClassIdentifier: 
+  monsterDisplayName: Bunch of eggs
+  monsterStages:
+  - {fileID: -5985543419399367828, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  - {fileID: -2108570706909516695, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  - {fileID: 3874599480036252831, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  - {fileID: -4677933784821262237, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}
+  timeBetweenStages: 80
+  monsterHatchTime: 240
+  buyPrice: 900
+  sellPrice: 1000
+  icon: {fileID: -5985543419399367828, guid: 5d595b550ea63fc4497a8ced1a2a9775, type: 3}

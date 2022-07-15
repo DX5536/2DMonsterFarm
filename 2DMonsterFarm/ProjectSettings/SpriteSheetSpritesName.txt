@@ -1,0 +1,72 @@
+[PLOT] 668x606
+Tree_Plot (0.504x0.435)
+Sky_Plot (0.495x0.435)
+ForSale_Plot (0.504x0.43)
+Lava_Plot (0.5x0.385)
+
+[ICON]
+Shop_Open
+Shop_Close
+
+Food
+
+Tree_Bowl_Empty
+Tree_Bowl_Full
+
+Sky_Bowl_Empty
+Sky_Bowl_Full
+
+Lava_Bowl_Empty
+Lava_Bowl_Full
+
+[MONSTER]
+Dragon_Sprite_00
+Dragon_Sprite_01
+Dragon_Sprite_02
+Dragon_Sprite_03
+
+Lizard_Sprite_00
+Lizard_Sprite_01
+Lizard_Sprite_02
+Lizard_Sprite_03
+
+Blob_Sprite_00
+Blob_Sprite_01
+Blob_Sprite_02
+Blob_Sprite_03
+
+Freebie_Sprite_00
+Freebie_Sprite_01
+Freebie_Sprite_02
+Freebie_Sprite_03
+
+Bird_Sprite_00
+Bird_Sprite_01
+Bird_Sprite_02
+Bird_Sprite_03
+
+Pig_Sprite_00
+Pig_Sprite_01
+Pig_Sprite_02
+Pig_Sprite_03
+
+Turtle_Sprite_00
+Turtle_Sprite_01
+Turtle_Sprite_02
+Turtle_Sprite_03
+
+Golem_Sprite_00
+Golem_Sprite_01
+Golem_Sprite_02
+Golem_Sprite_03 (0.465x0)
+
+
+
+
+
+
+
+
+
+
+
