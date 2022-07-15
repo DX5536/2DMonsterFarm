@@ -14,5 +14,8 @@ Controls:
 Play here: https://dx5536.itch.io/2d-monster-farm
 
 # Submission to "Game as Research" WiSe 2021/2022 of University of Europe for Applied Scieneces
-Original repo (BitBucket): git clone git@bitbucket.org:Timurl2602/monsterfarming.git
+Original repo (BitBucket): 
+* GIT (SSH): git clone git@bitbucket.org:Timurl2602/monsterfarming.git
+* GIT (HTTPS): git clone https://hailam_dang@bitbucket.org/Timurl2602/monsterfarming.git
+
 Made by: Hai Lam Dang & Timur Lüdemann
